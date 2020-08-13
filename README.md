@@ -43,7 +43,7 @@ Hence, this repo is suitable for simple projects.
 - Support **ES6** Syntax (**Babel 7**)
 - **ESLint** + **Prettier** = **Neat Coding Style**
 - Webpack production building (**code splitting**, **cache**, **lazy-loading** and [**Terser**](https://github.com/terser-js/terser))
-
+- Javascript Object are importable thanks to preset-react and plugin-proposal-class-properties
 ## Download and Install
 
 Let's go!
