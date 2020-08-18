@@ -50,7 +50,7 @@ Hence, this repo is suitable for simple projects.
 Let's go!
 
 ```
-$ git clone https://github.com/xxhomey19/bootstrap-webpack-jquery-boilerplate.git
+$ git clone https://github.com/jonathangreco/jonathangreco-bootstrap-webpack-jquery-boilerplate-.git
 $ cd bootstrap-webpack-jquery-boilerplate
 $ yarn // or npm install
 ```
